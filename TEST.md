@@ -1,6 +1,6 @@
 <html>
   <body>
-  <font="Verdana">
+  <font face="Verdana" size="4" color="blue">
     github
   </font>
   </body>
